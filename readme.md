@@ -6,7 +6,7 @@ Um desafio de 30 dias de CSS com a meta de melhorar suas habilidades. Um projeto
 A 30 day CSS challenge with the goal of improving your skills. A project a day every day, shared to your social networks so that you can track your progress. Created by [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCSS).
 
 ## 🔮 Day One
-![preview](images/preview1.gif)<br>
+![preview](https://j.gifs.com/z6ygWm.gif)<br>
 [See it live! 🔗](url)
 
 A simple card flip. Text is based off of a tumblr meme.
