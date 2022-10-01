@@ -7,7 +7,8 @@ A 30 day CSS challenge with the goal of improving your skills. A project a day e
 
 ## 🔮 Day One
 ![preview](https://j.gifs.com/z6ygWm.gif)<br>
-[See it live! 🔗](https://mariak-fla.github.io/30dias-css/01/)
+[See it live! 🔗](https://mariak-fla.github.io/30dias-css/01/)<br>
+[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:6981764988067569664/) (in portuguese)<br><br>
 
 A simple card flip. Text is based off of a tumblr meme.
 
