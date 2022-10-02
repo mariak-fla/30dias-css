@@ -16,3 +16,13 @@ A simple card flip. Text is based off of a tumblr meme.
 - [How to set a root selector (and use it as a color palette :P)](https://www.w3schools.com/cssref/sel_root.asp)
 - The one I based the entire thing on! [How to create a card flip with CSS](https://www.youtube.com/watch?v=QGVXmoZWZuw)
 - Also, [how to do borders like a boss 😎](https://www.w3schools.com/css/css_border.asp)
+
+## ⌛ Day Two
+![preview](https://j.gifs.com/gpNq13.gif)<br>
+[See it live! 🔗](https://mariak-fla.github.io/30dias-css/02/)<br>
+[LinkedIn Post](url) (in portuguese)<br><br>
+
+A simple loading animation.
+
+### ℹ️ Tutorials and guides:
+- [Color changing shiny loader using CSS & HTML](https://www.youtube.com/watch?v=ZcXJCBe1UZU)
